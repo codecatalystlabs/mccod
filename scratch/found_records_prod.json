@@ -1,0 +1,732 @@
+[
+    {
+        "searched_num": "1779",
+        "event_id": "uvH8SXo45oA",
+        "event_date": "2025-12-30T23:30:00.190",
+        "data_element": "FGagV1Utrdh",
+        "matched_value": "1779",
+        "event_details": {
+            "programStage": "aKclf7Yl1PE",
+            "programType": "WITHOUT_REGISTRATION",
+            "orgUnit": "XiavvWaLLRz",
+            "program": "vf8dN49jprI",
+            "event": "uvH8SXo45oA",
+            "status": "ACTIVE",
+            "orgUnitName": "Buwenge General Hospital",
+            "eventDate": "2025-12-30T23:30:00.190",
+            "created": "2026-06-25T22:52:16.534",
+            "lastUpdated": "2026-06-25T22:52:16.534",
+            "deleted": false,
+            "attributeOptionCombo": "Lf2Axb9E6B4",
+            "dataValues": [
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "ZKBE8Xm9DJG",
+                    "value": "PERI\u00a0- uvH8SXo45oA",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "VJXpmHCaAFG",
+                    "value": "0",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "i8rrl8YWxLF",
+                    "value": "2025-12-30T23:30:00.190+03:00",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "WYykJO0Vh3s",
+                    "value": "0",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "QmcOqkcNTip",
+                    "value": "NT",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "q7e7FOXKnOf",
+                    "value": "0",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "t5nTEmlScSt",
+                    "value": "KAGOMA",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "v8mvHHXo06E",
+                    "value": "0",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "dsiwvNQLe5n",
+                    "value": "kiwagama",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "TgFI46omIEg",
+                    "value": "0",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "W0r4m6NiLsy",
+                    "value": "2026-06-25 22:49:42",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "u44XP9fZweA",
+                    "value": "JINJA",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "FGagV1Utrdh",
+                    "value": "1779",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "e96GB4CXyd3",
+                    "value": "Male",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "RbrUuKFSqkZ",
+                    "value": "2025-12-30",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "zwKo51BEayZ",
+                    "value": "Wd1lV9Qdj4o",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "twVlVWM3ffz",
+                    "value": "Not Approved",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:52:16.525",
+                    "created": "2026-06-25T22:52:16.525",
+                    "dataElement": "NPE6arvf4mF",
+                    "value": "Health Facility",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "searched_num": "1783",
+        "event_id": "dD6QC7uSAS1",
+        "event_date": "2026-06-25T22:37:43.882",
+        "data_element": "FGagV1Utrdh",
+        "matched_value": "1783",
+        "event_details": {
+            "programStage": "aKclf7Yl1PE",
+            "programType": "WITHOUT_REGISTRATION",
+            "orgUnit": "XiavvWaLLRz",
+            "program": "vf8dN49jprI",
+            "event": "dD6QC7uSAS1",
+            "status": "ACTIVE",
+            "orgUnitName": "Buwenge General Hospital",
+            "eventDate": "2026-06-25T22:37:43.882",
+            "created": "2026-06-25T22:40:01.767",
+            "lastUpdated": "2026-06-25T22:40:01.767",
+            "deleted": false,
+            "attributeOptionCombo": "Lf2Axb9E6B4",
+            "dataValues": [
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "ZKBE8Xm9DJG",
+                    "value": "PERI\u00a0- dD6QC7uSAS1",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "VJXpmHCaAFG",
+                    "value": "0",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "i8rrl8YWxLF",
+                    "value": "2026-06-25T22:37:43.882+03:00",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "WYykJO0Vh3s",
+                    "value": "0",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "QmcOqkcNTip",
+                    "value": "YF",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "q7e7FOXKnOf",
+                    "value": "0",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "t5nTEmlScSt",
+                    "value": "KITANGUDWA",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "v8mvHHXo06E",
+                    "value": "0",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "dsiwvNQLe5n",
+                    "value": "NANKULYAKU",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "TgFI46omIEg",
+                    "value": "0",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "W0r4m6NiLsy",
+                    "value": "2026-06-25 22:36:12",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "u44XP9fZweA",
+                    "value": "KAMULI",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "FGagV1Utrdh",
+                    "value": "1783",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "e96GB4CXyd3",
+                    "value": "Male",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "RbrUuKFSqkZ",
+                    "value": "2025-12-29",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "zwKo51BEayZ",
+                    "value": "Wd1lV9Qdj4o",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "twVlVWM3ffz",
+                    "value": "Not Approved",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                },
+                {
+                    "lastUpdated": "2026-06-25T22:40:01.758",
+                    "created": "2026-06-25T22:40:01.758",
+                    "dataElement": "NPE6arvf4mF",
+                    "value": "Health Facility",
+                    "providedElsewhere": false,
+                    "createdByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    },
+                    "lastUpdatedByUserInfo": {
+                        "uid": "CDvsKkvuAyT",
+                        "firstName": "Wilber",
+                        "surname": "Byaale",
+                        "username": "buwengegenhosp.hc0002"
+                    }
+                }
+            ]
+        }
+    }
+]

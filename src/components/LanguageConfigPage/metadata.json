@@ -1,0 +1,968 @@
+{
+   
+   "categoryOptions": [
+      {
+       "code": "default",
+       "created": "2022-10-24T21:26:32.559",
+       "lastUpdated": "2022-10-24T21:26:32.571",
+       "name": "default",
+       "id": "xYerKDKCefk",
+       "attributeValues": [],
+       "translations": [],
+       "organisationUnits": []
+      },
+      {
+       "code": "N",
+       "created": "2019-01-29T22:10:47.824",
+       "lastUpdated": "2023-09-04T15:02:01.184",
+       "name": "1. National",
+       "id": "l4UMmqvSBe5",
+       "shortName": "National",
+       "startDate": "1920-03-11T00:00:00.000",
+       "lastUpdatedBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "createdBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "attributeValues": [],
+       "translations": [],
+       "organisationUnits": []
+      },
+      {
+       "code": "R",
+       "created": "2019-01-29T22:11:02.393",
+       "lastUpdated": "2023-09-04T15:02:01.184",
+       "name": "3. Refugee",
+       "id": "wUteK0Om3qP",
+       "shortName": "Refugee",
+       "startDate": "1920-03-11T00:00:00.000",
+       "lastUpdatedBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "createdBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "attributeValues": [],
+       "translations": [],
+       "organisationUnits": []
+      },
+      {
+       "code": "FR",
+       "created": "2019-01-29T22:11:35.944",
+       "lastUpdated": "2023-09-04T15:02:01.184",
+       "name": "2. Foreigner",
+       "id": "VJU0bY182ND",
+       "shortName": "Foreigner",
+       "startDate": "1920-03-11T00:00:00.000",
+       "lastUpdatedBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "createdBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "attributeValues": [],
+       "translations": [],
+       "organisationUnits": []
+      }
+    ],
+    "categoryOptionCombos": [
+      {
+       "code": "default",
+       "created": "2022-10-24T21:26:32.567",
+       "lastUpdated": "2022-10-24T21:26:32.569",
+       "id": "HllvX50cXC0",
+       "ignoreApproval": false,
+       "name": "default",
+       "categoryCombo": { "id": "bjDvmb4bfuf" },
+       "attributeValues": [],
+       "translations": [],
+       "categoryOptions": [{ "id": "xYerKDKCefk" }]
+      },
+      {
+       "code": "R",
+       "created": "2019-01-29T22:20:03.742",
+       "lastUpdated": "2023-09-04T15:02:01.348",
+       "id": "TFRceXDkJ95",
+       "ignoreApproval": false,
+       "name": "3. Refugee",
+       "lastUpdatedBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "categoryCombo": { "id": "UjXPudXlraY" },
+       "attributeValues": [],
+       "translations": [],
+       "categoryOptions": [{ "id": "wUteK0Om3qP" }]
+      },
+      {
+       "created": "2019-01-29T22:20:03.745",
+       "lastUpdated": "2023-09-04T15:02:01.348",
+       "id": "HqSHzyweG3W",
+       "ignoreApproval": false,
+       "name": "2. Foreigner",
+       "lastUpdatedBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "categoryCombo": { "id": "UjXPudXlraY" },
+       "attributeValues": [],
+       "translations": [],
+       "categoryOptions": [{ "id": "VJU0bY182ND" }]
+      },
+      {
+       "code": "N",
+       "created": "2019-01-29T22:20:03.737",
+       "lastUpdated": "2023-09-04T15:02:01.348",
+       "id": "Lf2Axb9E6B4",
+       "ignoreApproval": false,
+       "name": "1. National",
+       "lastUpdatedBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "categoryCombo": { "id": "UjXPudXlraY" },
+       "attributeValues": [],
+       "translations": [],
+       "categoryOptions": [{ "id": "l4UMmqvSBe5" }]
+      }
+    ],
+    "categories": [
+      {
+       "code": "RT01",
+       "created": "2019-08-14T19:42:50.143",
+       "lastUpdated": "2023-09-04T15:02:01.272",
+       "name": "Nationality",
+       "id": "ICjKVP3jwYl",
+       "shortName": "Nationality",
+       "dataDimensionType": "ATTRIBUTE",
+       "dataDimension": true,
+       "lastUpdatedBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "createdBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "attributeValues": [],
+       "translations": [],
+       "categoryOptions": [
+         { "id": "l4UMmqvSBe5" },
+         { "id": "VJU0bY182ND" },
+         { "id": "wUteK0Om3qP" }
+       ]
+      },
+      {
+       "code": "default",
+       "created": "2022-10-24T21:26:32.563",
+       "lastUpdated": "2023-11-04T06:17:30.903",
+       "name": "default",
+       "id": "GLevLNI9wkl",
+       "shortName": "default",
+       "dataDimensionType": "DISAGGREGATION",
+       "dataDimension": false,
+       "attributeValues": [],
+       "translations": [],
+       "categoryOptions": [{ "id": "xYerKDKCefk" }]
+      }
+    ],
+    "optionSets": [
+      {
+       "code": "100RefLevels",
+       "created": "2020-05-20T20:02:30.348",
+       "lastUpdated": "2023-09-04T15:01:59.295",
+       "name": "100RefLevels",
+       "id": "jFktkaq82Zr",
+       "version": 11,
+       "valueType": "TEXT",
+       "lastUpdatedBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "createdBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "attributeValues": [],
+       "translations": [],
+       "options": [
+         { "id": "VeRCMcbgpvA" },
+         { "id": "GuC8Q8eyflO" },
+         { "id": "BRbnBtrzgAk" },
+         { "id": "HHapIQI1k7V" },
+         { "id": "dfqGMBGiusQ" },
+         { "id": "avhDPyTRzEJ" },
+         { "id": "FvmwMKO1nI2" },
+         { "id": "WOdNvEHqgkt" }
+       ]
+      },
+      {
+       "created": "2020-03-28T12:36:45.967",
+       "lastUpdated": "2023-09-04T15:01:59.295",
+       "name": "Yes / No / Unknown",
+       "id": "Tn0IZ14u2cd",
+       "version": 6,
+       "valueType": "TEXT",
+       "lastUpdatedBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "createdBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "attributeValues": [],
+       "translations": [],
+       "options": [
+         { "id": "fPK0CkmG7sx" },
+         { "id": "xW0g8jaZdIh" },
+         { "id": "IDbpLmfUSIc" }
+       ]
+      },
+      {
+       "code": "SX01",
+       "created": "2019-07-03T13:39:18.677",
+       "lastUpdated": "2023-09-04T15:01:59.295",
+       "name": "Sex  ",
+       "id": "jKGM574bFRG",
+       "version": 7,
+       "valueType": "TEXT",
+       "lastUpdatedBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "createdBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "attributeValues": [],
+       "translations": [],
+       "options": [{ "id": "KkWFSFavp9F" }, { "id": "O5r6HxR4NGk" }]
+      },
+      {
+       "code": "PO01",
+       "created": "2019-07-03T13:39:18.678",
+       "lastUpdated": "2023-09-04T15:01:59.295",
+       "name": "Place of Occurence",
+       "id": "fFz67YbP5Pk",
+       "version": 5,
+       "valueType": "TEXT",
+       "lastUpdatedBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "createdBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "attributeValues": [],
+       "translations": [],
+       "options": [
+         { "id": "iY24VPe6e1H" },
+         { "id": "Bm9bI4EEay1" },
+         { "id": "WRI5uxUfuDj" },
+         { "id": "rubpc7jrkgf" },
+         { "id": "aflyoqvRs1q" },
+         { "id": "CK5PJqB3sAQ" },
+         { "id": "AGatcFtn7CQ" },
+         { "id": "CelJYqyguEY" },
+         { "id": "VKsKTqhJS3w" },
+         { "id": "KRT9LxvGTSO" }
+       ]
+      },
+      {
+       "code": "100ATPOINT",
+       "created": "2020-05-20T18:54:38.032",
+       "lastUpdated": "2023-09-04T15:01:59.295",
+       "name": "100 at what point?",
+       "id": "J3dE7VOk9gU",
+       "version": 8,
+       "valueType": "TEXT",
+       "lastUpdatedBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "createdBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "attributeValues": [],
+       "translations": [],
+       "options": [
+         { "id": "r0WeRv8BwKm" },
+         { "id": "MNPsJRmP5cm" },
+         { "id": "wnsjAXHa2nO" },
+         { "id": "O0n8hnf8OEj" }
+       ]
+      },
+      {
+       "code": "TI01",
+       "created": "2019-09-26T12:39:38.795",
+       "lastUpdated": "2023-09-04T15:01:59.295",
+       "name": "Time interval",
+       "id": "cNhdi3ONm0U",
+       "version": 9,
+       "valueType": "TEXT",
+       "lastUpdatedBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "createdBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "attributeValues": [],
+       "translations": [],
+       "options": [
+         { "id": "YHmPv5J1L4p" },
+         { "id": "M1BweDKYraw" },
+         { "id": "WO5NOOYShV5" },
+         { "id": "mi2Ll0CrTgX" },
+         { "id": "RfGpaARaWcz" }
+       ]
+      },
+      {
+       "code": "YN01",
+       "created": "2019-07-03T13:39:18.677",
+       "lastUpdated": "2023-09-04T15:01:59.295",
+       "name": "YesNoUnknown",
+       "id": "lty3hU2YI42",
+       "version": 5,
+       "valueType": "TEXT",
+       "lastUpdatedBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "createdBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "attributeValues": [],
+       "translations": [],
+       "options": [
+         { "id": "yBCPmGY2R70" },
+         { "id": "K4vgQU93S8r" },
+         { "id": "PDTLQyXfGrx" }
+       ]
+      },
+      {
+       "code": "MD01",
+       "created": "2019-07-03T13:39:18.678",
+       "lastUpdated": "2023-09-04T15:01:59.295",
+       "name": "Mode of Delivery",
+       "id": "wuQKd5QDxvs",
+       "version": 8,
+       "valueType": "TEXT",
+       "lastUpdatedBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "createdBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "attributeValues": [],
+       "translations": [],
+       "options": [
+         { "id": "wkJAJFIKK4I" },
+         { "id": "FhY4HiaQRTW" },
+         { "id": "eiZKSOBdZqW" }
+       ]
+      },
+      {
+       "code": "PD01",
+       "created": "2019-07-03T13:39:18.678",
+       "lastUpdated": "2023-09-04T15:01:59.295",
+       "name": "Place of Delivery",
+       "id": "bBncS2fyDQM",
+       "version": 6,
+       "valueType": "TEXT",
+       "lastUpdatedBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "createdBy": {
+         "code": "admin",
+         "displayName": "Data1 Data1",
+         "name": "Data1 Data1",
+         "id": "M5zQapPyTZI",
+         "username": "admin"
+       },
+       "attributeValues": [],
+       "translations": [],
+       "options": [
+         { "id": "ka5AoyXtQ23" },
+         { "id": "adRgJWM38pn" },
+         { "id": "w9spLGQCHVY" },
+         { "id": "MkPMEXNbHBs" },
+         { "id": "OuelIM8Zn3X" }
+       ]
+      }
+    ],
+    "options": [
+      {
+       "code": "Assisted",
+       "created": "2019-07-03T13:39:18.678",
+       "lastUpdated": "2023-09-04T15:01:54.265",
+       "name": "Assisted",
+       "id": "FhY4HiaQRTW",
+       "sortOrder": 2,
+       "optionSet": { "id": "wuQKd5QDxvs" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Unknown",
+       "created": "2020-03-28T12:37:22.627",
+       "lastUpdated": "2023-09-04T15:01:54.221",
+       "name": "Unknown",
+       "id": "IDbpLmfUSIc",
+       "sortOrder": 3,
+       "optionSet": { "id": "Tn0IZ14u2cd" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Female",
+       "created": "2019-07-03T13:39:18.677",
+       "lastUpdated": "2023-09-04T15:01:54.479",
+       "name": "Female",
+       "id": "O5r6HxR4NGk",
+       "sortOrder": 2,
+       "optionSet": { "id": "jKGM574bFRG" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Caesarean",
+       "created": "2019-07-03T13:39:18.678",
+       "lastUpdated": "2023-09-04T15:01:54.303",
+       "name": "Caesarean",
+       "id": "eiZKSOBdZqW",
+       "sortOrder": 3,
+       "optionSet": { "id": "wuQKd5QDxvs" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Sports and athletics area",
+       "created": "2019-07-03T13:39:18.677",
+       "lastUpdated": "2023-09-04T15:01:54.479",
+       "name": "Sports and athletics area",
+       "id": "aflyoqvRs1q",
+       "sortOrder": 5,
+       "optionSet": { "id": "fFz67YbP5Pk" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Within 42 days before the death",
+       "created": "2020-05-20T18:55:40.782",
+       "lastUpdated": "2023-09-04T15:01:54.377",
+       "name": "Within 42 days before the death",
+       "id": "MNPsJRmP5cm",
+       "sortOrder": 2,
+       "optionSet": { "id": "J3dE7VOk9gU" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "TBA",
+       "created": "2019-07-08T12:12:30.438",
+       "lastUpdated": "2023-09-04T15:01:54.478",
+       "name": "TBA",
+       "id": "OuelIM8Zn3X",
+       "sortOrder": 5,
+       "optionSet": { "id": "bBncS2fyDQM" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "School/other institution/public administrative area",
+       "created": "2019-07-03T13:39:18.677",
+       "lastUpdated": "2023-09-04T15:01:54.478",
+       "name": "School/other institution/public administrative area",
+       "id": "WRI5uxUfuDj",
+       "sortOrder": 3,
+       "optionSet": { "id": "fFz67YbP5Pk" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Trade and service area",
+       "created": "2019-07-03T13:39:18.677",
+       "lastUpdated": "2023-09-04T15:01:54.265",
+       "name": "Trade and service area",
+       "id": "CK5PJqB3sAQ",
+       "sortOrder": 6,
+       "optionSet": { "id": "fFz67YbP5Pk" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Yes",
+       "created": "2019-07-03T13:39:18.677",
+       "lastUpdated": "2023-09-04T15:01:54.479",
+       "name": "Yes",
+       "id": "yBCPmGY2R70",
+       "sortOrder": 1,
+       "optionSet": { "id": "lty3hU2YI42" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Unknown",
+       "created": "2019-07-03T13:39:18.677",
+       "lastUpdated": "2023-09-04T15:01:54.464",
+       "name": "Unknown",
+       "id": "PDTLQyXfGrx",
+       "sortOrder": 3,
+       "optionSet": { "id": "lty3hU2YI42" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Other place",
+       "created": "2019-07-03T13:39:18.677",
+       "lastUpdated": "2023-09-04T15:01:54.466",
+       "name": "Other place",
+       "id": "VKsKTqhJS3w",
+       "sortOrder": 9,
+       "optionSet": { "id": "fFz67YbP5Pk" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Don't Know",
+       "created": "2019-07-03T13:39:18.678",
+       "lastUpdated": "2023-09-04T15:01:54.477",
+       "name": "Don't Know",
+       "id": "MkPMEXNbHBs",
+       "sortOrder": 4,
+       "optionSet": { "id": "bBncS2fyDQM" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "HC3",
+       "created": "2020-05-20T20:05:20.279",
+       "lastUpdated": "2023-09-04T15:01:54.464",
+       "name": "Health Center 3 (HC3)",
+       "id": "HHapIQI1k7V",
+       "sortOrder": 4,
+       "optionSet": { "id": "jFktkaq82Zr" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "HC4",
+       "created": "2020-05-20T20:06:13.334",
+       "lastUpdated": "2023-09-04T15:01:54.112",
+       "name": "Health Center 4 (HC4)",
+       "id": "dfqGMBGiusQ",
+       "sortOrder": 5,
+       "optionSet": { "id": "jFktkaq82Zr" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Industrial and construction area",
+       "created": "2019-07-03T13:39:18.677",
+       "lastUpdated": "2023-09-04T15:01:54.234",
+       "name": "Industrial and construction area",
+       "id": "AGatcFtn7CQ",
+       "sortOrder": 7,
+       "optionSet": { "id": "fFz67YbP5Pk" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Years",
+       "created": "2019-09-26T12:40:56.317",
+       "lastUpdated": "2023-09-04T15:01:54.418",
+       "name": "Years",
+       "id": "RfGpaARaWcz",
+       "sortOrder": 5,
+       "optionSet": { "id": "cNhdi3ONm0U" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Between 43 days up to 1 year before death",
+       "created": "2020-05-20T18:56:03.186",
+       "lastUpdated": "2023-09-04T15:01:54.185",
+       "name": "Between 43 days up to 1 year before death",
+       "id": "wnsjAXHa2nO",
+       "sortOrder": 3,
+       "optionSet": { "id": "J3dE7VOk9gU" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Weeks",
+       "created": "2019-09-26T12:40:27.716",
+       "lastUpdated": "2023-09-04T15:01:54.478",
+       "name": "Weeks",
+       "id": "WO5NOOYShV5",
+       "sortOrder": 3,
+       "optionSet": { "id": "cNhdi3ONm0U" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "No",
+       "created": "2019-07-03T13:39:18.677",
+       "lastUpdated": "2023-09-04T15:01:54.416",
+       "name": "No",
+       "id": "K4vgQU93S8r",
+       "sortOrder": 2,
+       "optionSet": { "id": "lty3hU2YI42" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "HC1",
+       "created": "2020-05-20T20:04:04.646",
+       "lastUpdated": "2023-09-04T15:01:54.477",
+       "name": "Health Center 1 (HC1)",
+       "id": "GuC8Q8eyflO",
+       "sortOrder": 2,
+       "optionSet": { "id": "jFktkaq82Zr" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Unknown",
+       "created": "2020-05-20T18:56:22.883",
+       "lastUpdated": "2023-09-04T15:01:54.471",
+       "name": "Unknown",
+       "id": "O0n8hnf8OEj",
+       "sortOrder": 4,
+       "optionSet": { "id": "J3dE7VOk9gU" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "At time of death",
+       "created": "2020-05-20T18:55:20.704",
+       "lastUpdated": "2023-09-04T15:01:54.428",
+       "name": "At time of death",
+       "id": "r0WeRv8BwKm",
+       "sortOrder": 1,
+       "optionSet": { "id": "J3dE7VOk9gU" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Hours",
+       "created": "2019-09-26T12:39:59.248",
+       "lastUpdated": "2023-09-04T15:01:54.471",
+       "name": "Hours",
+       "id": "YHmPv5J1L4p",
+       "sortOrder": 1,
+       "optionSet": { "id": "cNhdi3ONm0U" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Community",
+       "created": "2020-05-20T20:03:28.840",
+       "lastUpdated": "2023-09-04T15:01:54.297",
+       "name": "Community",
+       "id": "VeRCMcbgpvA",
+       "sortOrder": 1,
+       "optionSet": { "id": "jFktkaq82Zr" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "GH",
+       "created": "2020-05-20T20:06:58.228",
+       "lastUpdated": "2023-09-04T15:01:54.424",
+       "name": "General Hospital",
+       "id": "avhDPyTRzEJ",
+       "sortOrder": 6,
+       "optionSet": { "id": "jFktkaq82Zr" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Home",
+       "created": "2019-07-03T13:39:18.678",
+       "lastUpdated": "2023-09-04T15:01:54.479",
+       "name": "Home",
+       "id": "adRgJWM38pn",
+       "sortOrder": 2,
+       "optionSet": { "id": "bBncS2fyDQM" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "At home",
+       "created": "2019-07-03T13:39:18.677",
+       "lastUpdated": "2023-09-04T15:01:54.390",
+       "name": "At home",
+       "id": "iY24VPe6e1H",
+       "sortOrder": 1,
+       "optionSet": { "id": "fFz67YbP5Pk" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Street and highway",
+       "created": "2019-07-03T13:39:18.677",
+       "lastUpdated": "2023-09-04T15:01:54.402",
+       "name": "Street and highway",
+       "id": "rubpc7jrkgf",
+       "sortOrder": 4,
+       "optionSet": { "id": "fFz67YbP5Pk" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "In Transit",
+       "created": "2019-07-03T13:39:18.678",
+       "lastUpdated": "2023-09-04T15:01:54.312",
+       "name": "In Transit",
+       "id": "w9spLGQCHVY",
+       "sortOrder": 3,
+       "optionSet": { "id": "bBncS2fyDQM" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Health Facility",
+       "created": "2019-07-03T13:39:18.678",
+       "lastUpdated": "2023-09-04T15:01:54.479",
+       "name": "Health Facility",
+       "id": "ka5AoyXtQ23",
+       "sortOrder": 1,
+       "optionSet": { "id": "bBncS2fyDQM" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "No",
+       "created": "2020-03-28T12:37:11.108",
+       "lastUpdated": "2023-09-04T15:01:54.416",
+       "name": "No",
+       "id": "xW0g8jaZdIh",
+       "sortOrder": 2,
+       "optionSet": { "id": "Tn0IZ14u2cd" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Male",
+       "created": "2019-07-03T13:39:18.677",
+       "lastUpdated": "2023-09-04T15:01:54.322",
+       "name": "Male",
+       "id": "KkWFSFavp9F",
+       "sortOrder": 1,
+       "optionSet": { "id": "jKGM574bFRG" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Unknown(please specify)",
+       "created": "2019-07-03T13:39:18.678",
+       "lastUpdated": "2023-09-04T15:01:54.398",
+       "name": "Unknown(please specify)",
+       "id": "KRT9LxvGTSO",
+       "sortOrder": 10,
+       "optionSet": { "id": "fFz67YbP5Pk" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "RR",
+       "created": "2020-05-20T20:07:34.065",
+       "lastUpdated": "2023-09-04T15:01:54.402",
+       "name": "Regional Referral ",
+       "id": "FvmwMKO1nI2",
+       "sortOrder": 7,
+       "optionSet": { "id": "jFktkaq82Zr" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Yes",
+       "created": "2020-03-28T12:37:00.287",
+       "lastUpdated": "2023-09-04T15:01:54.479",
+       "name": "Yes",
+       "id": "fPK0CkmG7sx",
+       "sortOrder": 1,
+       "optionSet": { "id": "Tn0IZ14u2cd" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "SVD",
+       "created": "2019-07-03T13:39:18.678",
+       "lastUpdated": "2023-09-04T15:01:54.417",
+       "name": "SVD",
+       "id": "wkJAJFIKK4I",
+       "sortOrder": 1,
+       "optionSet": { "id": "wuQKd5QDxvs" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Residential institution",
+       "created": "2019-07-03T13:39:18.677",
+       "lastUpdated": "2023-09-04T15:01:54.394",
+       "name": "Residential institution",
+       "id": "Bm9bI4EEay1",
+       "sortOrder": 2,
+       "optionSet": { "id": "fFz67YbP5Pk" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "HC2",
+       "created": "2020-05-20T20:04:35.034",
+       "lastUpdated": "2023-09-04T15:01:54.479",
+       "name": "Health Center 2 (HC2)",
+       "id": "BRbnBtrzgAk",
+       "sortOrder": 3,
+       "optionSet": { "id": "jFktkaq82Zr" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Months",
+       "created": "2019-09-26T12:40:39.699",
+       "lastUpdated": "2023-09-04T15:01:54.184",
+       "name": "Months",
+       "id": "mi2Ll0CrTgX",
+       "sortOrder": 4,
+       "optionSet": { "id": "cNhdi3ONm0U" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "National",
+       "created": "2020-05-20T20:07:51.701",
+       "lastUpdated": "2023-09-04T15:01:54.427",
+       "name": "National",
+       "id": "WOdNvEHqgkt",
+       "sortOrder": 8,
+       "optionSet": { "id": "jFktkaq82Zr" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Farm",
+       "created": "2019-07-03T13:39:18.677",
+       "lastUpdated": "2023-09-04T15:01:54.312",
+       "name": "Farm",
+       "id": "CelJYqyguEY",
+       "sortOrder": 8,
+       "optionSet": { "id": "fFz67YbP5Pk" },
+       "attributeValues": [],
+       "translations": []
+      },
+      {
+       "code": "Days",
+       "created": "2019-09-26T12:40:11.236",
+       "lastUpdated": "2023-09-04T15:01:54.423",
+       "name": "Days",
+       "id": "M1BweDKYraw",
+       "sortOrder": 2,
+       "optionSet": { "id": "cNhdi3ONm0U" },
+       "attributeValues": [],
+       "translations": []
+      }
+    ]
+}

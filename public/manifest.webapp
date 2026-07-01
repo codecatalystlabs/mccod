@@ -1,0 +1,23 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": ".."
+    }
+  },
+  "appType": "APP",
+  "name": " Medical Certificate of Cause of Death",
+  "version": "2.0.0",
+  "description": " Medical Certificate of Cause of Death",
+  "icons": {
+    "16": "assets/icons/image001.png",
+    "48": "assets/icons/image001.png",
+    "128": "assets/icons/image001.png"
+  },
+  "developer": {
+    "name": "Simon Kununka",
+    "url": "http://dhis2.org"
+  },
+  "manifest_generated_at": "Tue Jun 30 2026 22:39:43 GMT+0300 (East Africa Time)"
+}

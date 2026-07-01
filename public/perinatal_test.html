@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Perinatal Registry Form (Simulated Linkage Test)</title>
+    <style type="text/css">
+        body {
+            font-family: "Lato", sans-serif;
+            background-color: #f7f9fa;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        .header-panel {
+            background-color: #d0eBd0;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+            border-left: 5px solid #669872;
+        }
+        .btn-fill {
+            background-color: #2b8a3e;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            font-size: 15px;
+            cursor: pointer;
+            border-radius: 4px;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+        .btn-fill:hover {
+            background-color: #237032;
+        }
+        table, table tr, table tr td {
+            border: 1px solid #c0c0c0;
+            border-collapse: collapse;
+            padding: 8px;
+        }
+        .section-head {
+            background-color: #757575;
+            color: #FFFFFF;
+            font-weight: bold;
+        }
+        input {
+            width: 90%;
+            padding: 6px;
+            box-sizing: border-box;
+        }
+        #mcodbutton {
+            background-color: darkblue;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            font-weight: bold;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+        #mcodbutton:hover {
+            background-color: #00005f;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header-panel">
+        <h2>Perinatal Form Linkage Test Page</h2>
+        <p>This simulates the DHIS2 custom form for perinatal registry. Use the button below to pre-populate with test data, then click "Edit From MCCOD" to verify the record loads completely.</p>
+        <button class="btn-fill" onclick="autofill()" type="button">1. Auto-fill Sample Perinatal Data</button>
+    </div>
+
+    <!-- The form table copied from Perinatal_production.txt -->
+    <table width="100%">
+        <tbody>
+            <tr>
+                <td>
+                    <table border="1" width="100%">
+                        <tbody>
+                            <tr>
+                                <td width="40%">Ministry of Health National Case Number</td>
+                                <td><input id="CGz50G2MY16-ZKBE8Xm9DJG-val" name="entryfield" value="" /></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table border="1" width="100%">
+                        <tbody>
+                            <tr class="section-head">
+                                <td colspan="7">SECTION ONE: Identification</td>
+                            </tr>
+                            <tr>
+                                <td>1.1 IPNO. <b>(Mother):</b></td>
+                                <td colspan="2"><input id="CGz50G2MY16-eb82Wa1qOS8-val" name="entryfield" value="" /></td>
+                                <td colspan="2">1.1.2 IPNo. (Newborn)</td>
+                                <td colspan="2"><input id="CGz50G2MY16-H34bcwaOliX-val" name="entryfield" value="" /></td>
+                            </tr>
+                            <tr>
+                                <td>1.5.3 Village:</td>
+                                <td colspan="2"><input id="CGz50G2MY16-T0f4UTwxd6Q-val" name="entryfield" value="" /></td>
+                                <td colspan="2">Parish:</td>
+                                <td colspan="2"><input id="CGz50G2MY16-dKQIx7sVFbD-val" name="entryfield" value="" /></td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;&nbsp;&nbsp;&nbsp;District:</td>
+                                <td colspan="2"><input id="CGz50G2MY16-t5nTEmlScSt-val" name="entryfield" value="" /></td>
+                                <td colspan="2">Subcounty:</td>
+                                <td colspan="2"><input id="CGz50G2MY16-u44XP9fZweA-val" name="entryfield" value="" /></td>
+                            </tr>
+                            <tr>
+                                <td>1.5 Mother's initials</td>
+                                <td colspan="2"><input id="CGz50G2MY16-xpJgWYFpvht-val" name="entryfield" value="" /></td>
+                                <td colspan="2">1.5.2 Age: <b>(years)</b></td>
+                                <td colspan="2"><input id="CGz50G2MY16-hTYVRRvhYEt-val" name="entryfield" value="" /></td>
+                            </tr>
+                            <tr>
+                                <td>Age of the baby:</td>
+                                <td>Minutes:</td>
+                                <td><input id="CGz50G2MY16-rjoVXlCWLYM-val" name="entryfield" value="" /></td>
+                                <td>Hours:</td>
+                                <td><input id="CGz50G2MY16-rDI0uhcVLAk-val" name="entryfield" value="" /></td>
+                                <td>Days:</td>
+                                <td><input id="CGz50G2MY16-quKRjZzkSRA-val" name="entryfield" value="" /></td>
+                            </tr>
+                            <tr>
+                                <td>3.7.6 Sex:</td>
+                                <td colspan="6" id="CGz50G2MY16-ZBvxrMFv9aW-val">
+                                    <!-- Populated dynamically via Autofill as a select or custom DOM -->
+                                    <input value="" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table border="1" width="100%">
+                        <tbody>
+                            <tr class="section-head">
+                                <td colspan="9">SECTION THREE: Labour and Birth</td>
+                            </tr>
+                            <tr>
+                                <td>3.1 Weeks of amenorrhea at delivery</td>
+                                <td colspan="2"><input id="CGz50G2MY16-m8jUvzBgYga-val" name="entryfield" value="" /></td>
+                                <td>3.1.2. Date and time of delivery</td>
+                                <td colspan="5"><input id="CGz50G2MY16-RpkIvgOOZJt-val" name="entryfield" value="" /></td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                                <td colspan="2">&nbsp;</td>
+                                <td>Date and Time of Death</td>
+                                <td colspan="5"><input id="CGz50G2MY16-Dq9aH0aZ2wb-val" name="entryfield" value="" /></td>
+                            </tr>
+                            <tr>
+                                <td colspan="9">
+                                    <p style="padding: 10px 0;">
+                                        <button class="btn btn-primary" id="mcodbutton" onclick="gotomcod()" type="button">Edit From MCCOD</button>
+                                    </p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<script>
+    // List of data elements to extract
+    var des = [
+        "RpkIvgOOZJt", // date and time of delivery
+        "ZKBE8Xm9DJG", // case number
+        "xpJgWYFpvht", // mother's initials
+        "hTYVRRvhYEt", // mother's age
+        "rjoVXlCWLYM", // age in minutes
+        "rDI0uhcVLAk", // age in hours
+        "quKRjZzkSRA", // age in days
+        "m8jUvzBgYga", // weeks of pregnancy
+        "T0f4UTwxd6Q", // village
+        "dKQIx7sVFbD", // parish
+        "H34bcwaOliX", // IP Number
+        "t5nTEmlScSt", // district
+        "u44XP9fZweA", // subcounty
+    ];
+
+    // Mock orgUnit, eventId, and nationality for simulated linkage
+    var orgUnit = "FvewOonC8lS";
+    var eventId = "simulated-event-12345";
+    var nationality = "1. National";
+    var babyName = "DECEASED BABY";
+
+    // Setup DOM wrappers on load to mirror DHIS2 runtime environment
+    window.addEventListener('DOMContentLoaded', () => {
+        document.querySelectorAll('input[id^="CGz50G2MY16-"]').forEach(input => {
+            if (input.id === "CGz50G2MY16-ZBvxrMFv9aW-val") return; // skip sex
+            const originalId = input.id;
+            const parent = input.parentElement;
+            
+            const wrapper = document.createElement('div');
+            wrapper.id = originalId;
+            
+            input.removeAttribute('id');
+            parent.replaceChild(wrapper, input);
+            wrapper.appendChild(input);
+        });
+    });
+
+    function autofill() {
+        const data = {
+            "RpkIvgOOZJt": "2024-06-15T10:30",  // delivery date
+            "ZKBE8Xm9DJG": "PERI-9988",           // case number
+            "xpJgWYFpvht": "MB",                   // mother's initials
+            "hTYVRRvhYEt": "26",                   // mother's age
+            "rjoVXlCWLYM": "15",                   // age in minutes
+            "rDI0uhcVLAk": "2",                    // age in hours
+            "quKRjZzkSRA": "0",                    // age in days (testing the 0 filter fix!)
+            "m8jUvzBgYga": "39",                   // weeks of pregnancy
+            "T0f4UTwxd6Q": "Buwenge Village",     // village
+            "dKQIx7sVFbD": "Buwenge Parish",       // parish
+            "H34bcwaOliX": "IP-9900",              // IP Number
+            "t5nTEmlScSt": "Jinja",                // district
+            "u44XP9fZweA": "Buwenge Subcounty",    // subcounty
+            "Dq9aH0aZ2wb": "2024-06-15T12:00"      // date and time of death
+        };
+
+        Object.entries(data).forEach(([key, val]) => {
+            const container = document.getElementById(`CGz50G2MY16-${key}-val`);
+            if (container) {
+                const input = container.querySelector('input');
+                if (input) input.value = val;
+            }
+        });
+
+        // Set sex
+        const sexContainer = document.getElementById("CGz50G2MY16-ZBvxrMFv9aW-val");
+        if (sexContainer) {
+            sexContainer.innerHTML = '<div class="has-value"><span>Male</span></div>';
+        }
+    }
+
+    function gotomcod() {
+        console.log("go to mccod");
+        var olsdata = {
+            orgUnit: orgUnit,
+            nationality: nationality,
+            event: eventId,
+            babyName: babyName,
+        };
+
+        des.forEach((deId) => {
+            olsdata[deId] = document.querySelector(
+                `#CGz50G2MY16-${deId}-val input`
+            )?.value;
+        });
+
+        // Extract sex
+        olsdata["ZBvxrMFv9aW"] = document.querySelector(
+            "#CGz50G2MY16-ZBvxrMFv9aW-val .has-value :not(:has(*))"
+        )?.textContent || "Male";
+
+        console.log("olsdata:", olsdata);
+        
+        // Save to localStorage
+        localStorage.setItem("mcodtemp", JSON.stringify(olsdata));
+
+        // In the local test, redirect the parent window directly to our running app
+        // with query params simulating the iframe environment.
+        const queryString = Object.entries(olsdata)
+            .filter(([_, value]) => value !== null && value !== undefined)
+            .map(([key, value]) => `${encodeURIComponent(key)}=${encodeURIComponent(value)}`)
+            .join("&");
+
+        window.location.href = "/?iframe_edit=true&" + queryString;
+    }
+</script>
+</body>
+</html>
